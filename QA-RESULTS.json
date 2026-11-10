@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-09",
+  "pages": 77,
+  "viewport_widths": [
+    375,
+    768,
+    1440,
+    3840
+  ],
+  "browser_checks": 308,
+  "layout_or_image_errors": [],
+  "partner_images_loaded": 90,
+  "unique_partner_logos": 45,
+  "local_missing_files": 0,
+  "local_missing_anchors": 0
+}
